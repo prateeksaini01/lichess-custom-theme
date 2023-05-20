@@ -15,4 +15,8 @@ Defaults to the Blue theme on chess.com
 # Problems
 - The buttons are added on the navbar alongside other buttons, they should ideally be in the dasher
 - Overrides the blue3 theme (because I hate it the most). I don't see a way to add a new theme because there's an API call to lichess that saves the user's theme preference. I assume it only accepts predefined values.
--  
+
+# Future improvement ideas
+- A toggleable "lock button" which automatically selects the dark colour based on what you pick for the light colour based on some rule and vice versa
+- Move the buttons to the dasher
+- More options for the board svg
